@@ -6,6 +6,7 @@ import Bestselling from "./component/home-components/Bestselling";
 import TrendingBanner from "./component/home-components/Trendding_collection";
 import FreeShipping from "./component/home-components/FreeShipping";
 import Customers from "./component/home-components/Customers";
+import Secondry_footer from "./component/home-components/Secondry_footer";
 
 
 export default function Home() {
@@ -19,6 +20,7 @@ export default function Home() {
       <Bestselling/>
       <FreeShipping/>
       <Customers/>
+      <Secondry_footer/>
    
     </>
 
