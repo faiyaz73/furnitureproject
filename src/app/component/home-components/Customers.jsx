@@ -136,18 +136,7 @@ export default function Customers() {
         <img
           src="https://randomuser.me/api/portraits/men/52.jpg"
           alt="Customer"
-          className="
-            w-16
-            h-16
-            sm:w-20
-            sm:h-20
-            rounded-full
-            object-cover
-            mt-7
-            border-2
-            border-[#CA9F7D]
-          "
-        />
+          className="-16 h-16 sm:w-20 sm:h-20 rounded-full object-cover mt-7 border-2 border-[#CA9F7D]"/>
 
 
         <h2 className="mt-3 text-lg font-semibold text-gray-800">

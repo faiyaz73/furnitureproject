@@ -41,7 +41,7 @@ export default function Bestselling() {
     };
 
     return (
-        <section className="w-full border-b border-gray-200 px-4 py-10 sm:px-6 lg:px-10">
+        <section id="bestselling" className="w-full border-b border-gray-200 px-4 py-10 sm:px-6 lg:px-10">
             <div className="mx-auto max-w-[1620px]">
                 <div className="mb-7 flex items-center gap-4 sm:gap-7">
                     <h2 className="shrink-0 bg-[#3568d4] px-2 py-1 font-serif text-2xl font-bold text-white sm:text-4xl">
